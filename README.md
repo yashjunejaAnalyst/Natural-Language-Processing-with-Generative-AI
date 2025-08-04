@@ -38,7 +38,7 @@ Two embedding techniques were used:
 * Word2Vec + Random Forest (GridSearch) provided the best accuracy and generalization.
 * Selected as the final production model.
 
-Outcome:
+**Outcome:**
 
 1.) Developed a sentiment analysis system that can predict stock movement with reasonable accuracy using financial news.
 
